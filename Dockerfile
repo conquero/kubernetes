@@ -1,5 +1,3 @@
-FROM   gcr.io/google_containers/kubernetes-apiserver-amd64:v1.11.2
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.12.0
 MAINTAINER yanyuzm
-
-
 
